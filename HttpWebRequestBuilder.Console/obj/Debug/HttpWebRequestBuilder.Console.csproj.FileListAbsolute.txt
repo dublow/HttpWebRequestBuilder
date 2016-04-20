@@ -1,0 +1,10 @@
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\HttpWebRequestBuilder.Console.exe.config
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\HttpWebRequestBuilder.Console.exe
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\HttpWebRequestBuilder.Console.pdb
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\HttpWebRequestBuilder.Core.dll
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\HttpWebRequestBuilder.Core.pdb
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\obj\Debug\HttpWebRequestBuilder.Console.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\obj\Debug\HttpWebRequestBuilder.Console.exe
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\obj\Debug\HttpWebRequestBuilder.Console.pdb
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\NLog.dll
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Console\bin\Debug\NLog.xml

@@ -1,0 +1,7 @@
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\bin\Debug\HttpWebRequestBuilder.Core.dll
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\bin\Debug\HttpWebRequestBuilder.Core.pdb
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\obj\Debug\HttpWebRequestBuilder.Core.csprojResolveAssemblyReference.cache
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\obj\Debug\HttpWebRequestBuilder.Core.dll
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\obj\Debug\HttpWebRequestBuilder.Core.pdb
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\bin\Debug\NLog.dll
+C:\Users\nicolas\Documents\GitHub\HttpWebRequestBuilder\HttpWebRequestBuilder.Core\bin\Debug\NLog.xml
